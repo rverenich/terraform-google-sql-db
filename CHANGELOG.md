@@ -5,6 +5,18 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](http://keepachangelog.com/) and this
 project adheres to [Semantic Versioning](http://semver.org/).
 
+## [20.1.0](https://github.com/terraform-google-modules/terraform-google-sql-db/compare/v20.0.0...v20.1.0) (2024-04-15)
+
+
+### Features
+
+* Add support for email based alerting ([#591](https://github.com/terraform-google-modules/terraform-google-sql-db/issues/591)) ([af8ec91](https://github.com/terraform-google-modules/terraform-google-sql-db/commit/af8ec916601c162503c3007d12e0be1b35f7efbd))
+
+
+### Bug Fixes
+
+* Relax assignment of backup_configuration when operating as a replica ([#589](https://github.com/terraform-google-modules/terraform-google-sql-db/issues/589)) ([19daff8](https://github.com/terraform-google-modules/terraform-google-sql-db/commit/19daff8f66ac2ead4fe814452ecc19baee5e3978))
+
 ## [20.0.0](https://github.com/terraform-google-modules/terraform-google-sql-db/compare/v19.0.0...v20.0.0) (2024-03-08)
 
 
